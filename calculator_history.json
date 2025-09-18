@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-09-18T16:18:33.077123",
+    "operation": "add",
+    "operand_a": 10.0,
+    "operand_b": 5.0,
+    "result": 15.0,
+    "special_case": false
+  },
+  {
+    "timestamp": "2025-09-18T16:18:33.151208",
+    "operation": "multiply",
+    "operand_a": 3.0,
+    "operand_b": 7.0,
+    "result": 21.0,
+    "special_case": false
+  },
+  {
+    "timestamp": "2025-09-18T16:18:33.224632",
+    "operation": "add",
+    "operand_a": 5.0,
+    "operand_b": 3.0,
+    "result": 8.0,
+    "special_case": true
+  }
+]
